@@ -1,1 +1,2 @@
-imagenes de base de datos
+imagenes de base de datos, divididas por clase
+
